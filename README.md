@@ -1,2 +1,2 @@
-# PI---Placa-Solar-Inteligente
-Projeto final da disciplina Lógica e criatividade, apresentação no CONIC 2024.
+# DISPOSITIVO SOLAR PARA MAIOR APROVEITAMENTO NA GERAÇÃO DE ENERGIA
+O painel solar inteligente ajusta automaticamente sua orientação para maximizar a captação de luz, otimizando a geração de energia. Equipado com sensores e um controlador, ele monitora luz, temperatura e eficiência, reagindo a sombras e sujeira. O painel permite monitoramento remoto e pode integrar-se a redes inteligentes, enviando energia extra para a rede e ajustando sua produção conforme a demanda.
